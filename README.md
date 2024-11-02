@@ -1,4 +1,4 @@
-# Productivity App
+# Task-organizer
 A task manager application using [Neo4j](https://neo4j.com/) with bare bones natural language processing. 
 ## Steps to get started
 + Create an account on [Neo4j](https://neo4j.com/).
